@@ -152,3 +152,49 @@
 > ```html
 > <div class="bg-blue-800 m-3 p-5 text-lg text-justify text-blue-200">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
 > ```
+
+### Text Italics
+```css
+.italic | .not-italic
+```
+
+### Font Weight
+```css
+.font-{weight}
+```
+
+| weight | Font Weight |
+| ----- | ----- |
+| harline | 100|
+| thin | 200 |
+| light | 300 |
+| normal | 400 |
+| medium | 500 |
+| semibold | 600 |
+| bold | 700 |
+| extrabold | 800 |
+| black | 900 |
+
+### Letter Spacing
+```css
+.trakcing-{spacing}
+```
+
+| spacings | Font Weight |
+| ----- | ----- |
+| tighter | -0.05em |
+| tight | -0.025em |
+| normal | 0 |
+| wide | 0.025em |
+| wider | 0.05em |
+| widest | 0.1em |
+
+### Text Decorations
+```css
+.underline | .no-underline | .ling-through
+```
+
+### Text Transform
+```css
+.uppercase | .lowercase | .capitalize | .normal-case
+```
